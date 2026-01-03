@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337412443124",
+    "project_id": "car-mod-946cd",
+    "storage_bucket": "car-mod-946cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337412443124:android:a43d483e57338aa24a87a1",
+        "android_client_info": {
+          "package_name": "com.example.car_maintenance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQ7IWZ4IHACmIYg4kY2tBFGpBANaRZRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
